@@ -1,0 +1,82 @@
+header {
+    background-color: #F0F0F0;
+    padding: 15px 30px 15px 30px;
+    float: left;
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
+footer {
+    background-color: #F0F0F0;
+    padding: 25px 30px 15px 30px;
+    float: left;
+    width: 100%;
+    border-top: 1px solid #000;
+}
+footer p {
+    font-weight: bold;
+    font-size: 12px;
+}
+header a {
+    float: left;
+    margin-top: 30px;
+}
+#logo {
+    height: 100px;
+    margin: -10px 0px 0px 100px;
+}
+.right {
+    text-align: right;
+}
+a.logout {
+    float: right;
+    text-align: right;
+    text-decoration: underline;
+    margin-top: 10px;
+}
+.bold {
+    font-weight: bold;
+}
+.container {
+    background-color: #FFFFF9;
+    padding: 2%;
+}
+.glyphicons {
+    font-size: 30px;
+}
+h1 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+#error-bar {
+    width: 100%;
+    border-radius: 5px;
+    background-color: firebrick;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    margin: 15px 0px 15px 0px;
+    padding: 5px 0px 5px 0px;
+}
+#error-bar-blank {
+    width: 100%;
+    margin: 15px 0px 15px 0px;
+    padding: 5px 0px 5px 0px;
+}
+.paddno {
+    padding: 0px;
+}
+.sml-gap {
+    float: left;
+    width: 100%;
+    margin: 10px 0px 10px 0px;
+}
+.med-gap {
+    float: left;
+    width: 100%;
+    margin: 25px 0px 25px 0px;
+}
+.lrg-gap {
+    float: left;
+    width: 100%;
+    margin: 50px 0px 50px 0px;
+}
