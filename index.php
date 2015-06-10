@@ -54,7 +54,7 @@ namespace sirfix;
             
             <div>
                 <h1>Sir Fixalot Cars</h1>
-                <p>We are a mobile mechanic company operating in the <b>Leigh-on-Sea</b> and surrounding areas.</p>
+                <p>We are a mobile mechanic company operating in <b>Leigh-on-Sea</b> and surrounding areas.</p>
                 <p>Please see below for our contact details and services we offer.</p>
                 <h1>Contact Us</h1>
                 <p>Please use the contact details below to request a quote or arrange for a mechanic to come to you! Our friendly staff are happy to take your call or respond to an email.</p>
