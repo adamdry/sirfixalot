@@ -91,7 +91,7 @@ namespace sirfix;
                     <li>
                         Brake Components Mechanical
                         <ul class="subServiceList">
-                            <li>discs</li>
+                            <li>Discs</li>
                             <li>Pads</li>
                             <li>Drums</li>
                             <li>Shoes</li>
